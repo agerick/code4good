@@ -8,6 +8,5 @@
 - [Data Science for Social Good at Uchicago] (https://twitter.com/datascifellows?lang=en)
   - https://dssg.uchicago.edu/
   - https://dssg.uchicago.edu/projects/
-  - 
 - [Atlanta](http://dssg-atl.io/)
 - [Washington](http://escience.washington.edu/get-involved/incubator-programs/data-science-for-social-good/)
