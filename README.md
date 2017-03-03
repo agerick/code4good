@@ -10,3 +10,6 @@
   - [Link 3](https://twitter.com/datascifellows?lang=en)
 - [Atlanta](http://dssg-atl.io/)
 - [Washington](http://escience.washington.edu/get-involved/incubator-programs/data-science-for-social-good/)
+
+### Open Data
+- [Sheffield](http://opendsi.cc/)
